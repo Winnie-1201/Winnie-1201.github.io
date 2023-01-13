@@ -4038,6 +4038,7 @@ body.is-preload #sidebar nav ul li {
 
 .s-b {
   justify-content: space-between;
+  align-items: center;
 }
 
 .mb-10 {
@@ -4045,7 +4046,7 @@ body.is-preload #sidebar nav ul li {
 }
 
 .font-14 {
-  font-size: 19px;
+  font-size: 17px;
 }
 
 .font-22 {
