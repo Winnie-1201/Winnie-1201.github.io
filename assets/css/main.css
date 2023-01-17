@@ -4010,7 +4010,7 @@ body.is-preload #sidebar nav ul li {
 
 #intro {
   background-attachment: fixed;
-  background-image: url("images/img.jpg");
+  background-image: url("/images/img.jpg");
   background-position: bottom 6% right 4%;
   background-repeat: no-repeat;
   background-size: 36%;
