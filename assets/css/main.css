@@ -3015,6 +3015,7 @@ header h6 + p {
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
+  margin-left: 3%;
 }
 
 .split > * {
@@ -4101,4 +4102,31 @@ body.is-preload #sidebar nav ul li {
 .font-22 {
   font-size: 22px;
   font-weight: bolder;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.ml-2 {
+  margin-left: 2%;
+}
+
+.skill-title {
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill-img {
+  margin: 6px;
+}
+
+.mt-20 {
+  margin-top: 20px;
 }
